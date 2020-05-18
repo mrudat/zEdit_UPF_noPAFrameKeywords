@@ -1,0 +1,12 @@
+{
+  "id": "noPAFrameKeywords",
+  "name": "No Power Armor Frame Keywords",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2020-04-16",
+  "updated": "2020-04-16",
+  "description": "Strips Power Armor Frame Keywords from clothes",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
